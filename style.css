@@ -1,0 +1,334 @@
+
+.wrapper 
+{
+    height:  1000px;
+    width:  1515px;
+    margin:-7px auto;
+    background-color:#ECD67B ;
+  
+}
+header
+{
+  margin-left:-10px auto;
+    height: 140px;
+    width: 1515px;
+    background-color:#96572A;
+}
+a:hover{
+  background-color: red;
+  opacity:0.8;
+}
+
+.wrapper nav ul li{
+  font-size: 25px;
+  word-spacing: 3px;
+}
+ .sidebar {
+  float: left;
+  width: 360px;
+  margin-top: -345px;
+  margin-left: 0px;
+  background-color:#E5AD64  ;
+}
+
+.sidebar ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;}
+
+.sidebar li {
+  margin-bottom: 40px;
+  padding: 0 15px;
+}
+
+
+.sidebar li li {
+  margin: 0;
+  padding-left: 15px;
+  background: url(bck.png) no-repeat left 50%;
+}
+
+.sidebar h2 {
+  height: 32px;
+  padding: 8px 0 0 15px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  color: white;
+}
+
+.login input{
+  width: 300px;
+  height:30px;
+}
+
+
+.search h2 {
+  margin-bottom: 20px;
+  border: 4px solid #BED99C;
+  font-size: 20px;
+}
+
+.search #s {
+  width: 300px;
+  margin-right: 5px;
+  padding: 3px;
+  border: 2px solid #BED99C;
+}
+.search h1
+{
+  font-size: 50px;
+}
+
+.search #x {
+  padding: 3px;
+  border: none;
+  background: #DAA520;
+  width: 200px;
+  font-size: 12px;
+  color: #FFFFFF;
+  margin-left: 50px;
+}
+
+
+  #regj
+  {
+    background-image:url(images/login.jpg);
+    width:100%;
+    height: 100%;
+    margin-top: -35px;
+
+  }
+
+#regj .regji{
+  background-color: #6d6e64;
+  margin-left: 400px;
+  width: 700px;
+   opacity:0.85;
+   height:700px;
+   text-align: center;
+ 
+
+}
+.regji input{
+  width: 250px;
+  height: 25px;
+  margin-top: 10px;
+ margin-left: -30px;
+
+}
+
+
+
+
+.login h2{
+  border: 4px solid #BED99C;
+  font-size: 20px;
+}
+.login #x
+{
+  background: #3fd968;
+}
+
+
+.box1 {
+  padding: 20px;
+}
+
+.box2 {
+  color: #BABABA;
+}
+
+.box2 h2 {
+  margin-bottom: 15px;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+.box2 ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.box2 a:link, .box2 a:hover, .box2 a:active, .box2 a:visited  {
+  color: #EDEDED;
+}
+
+
+
+
+#search {
+
+}
+
+#search h2 {
+  margin-bottom: 20px;
+}
+
+ .content
+ {
+
+  margin-left: 600px;
+  text-align: center;
+
+}
+.titulli{
+  opacity: 0.85;
+   position: absolute;
+  top: 50%;
+  left: 64%;
+  transform: translate(-50%, -50%);
+  background-color:#CE661C;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.kon{
+
+  background-image: url('images/bek.jpg');
+  padding-top:0px;
+  height: 1000px;
+}
+ .kontakt {
+  margin-top: 0px auto;
+ background-color: #d6d93f;
+ width:600px;
+ height:600px;
+ margin-left: 450px;
+ opacity:0.9;
+}
+.kontakt input{
+  margin-left: 30px;
+  width:500px;
+  height:30px;
+
+}
+.kontakt #butoni{
+  background-color: #00FF00 ;
+}
+
+
+.post h1 {
+}
+
+.post h2 {
+  height: 32px;
+  padding: 8px 0 0 15px;
+  background: url(images/imggg.jpg) no-repeat left top;
+  font-size: 18px;
+  color: #DADADA;
+}
+
+.post .entry {
+  padding: 0 15px;
+}
+
+
+footer {
+position: absolute;
+    height: 100px;
+    width: 1515px;
+    background-color: #96572A;
+}
+.logo{
+    float: left;
+    padding-left: 30px;
+    
+}
+.logo img 
+{
+    height:110px;
+    padding-left:  20px;
+    object-fit: cover;
+    object-position: left;
+}
+.logo h1
+{
+    padding-left: 30px;
+
+}
+li a 
+{
+    color:white;
+    text-decoration:none;
+}
+nav{
+    float: right;
+    word-spacing: 30px;
+padding:20px;
+}
+nav ul li {
+    display: inline-block;
+    line-height: 70px;
+
+}
+section .sec_img
+{
+background-image: url("images/foto2.jpg");
+background-size:cover;
+margin-top: 0px;
+height: 500px;
+}
+ .box
+{
+height: 200px;
+width:750px;
+background-color: #643521;
+margin:100px auto;
+opacity:0.9;
+}
+s
+.login_img
+{
+    background-image: url("images/login.jpg");
+    background-size:cover;
+margin-top: 0px;
+height: 800px;
+}
+.box1
+{
+    height: 350px;
+    width: 450px;
+    background-color: #827A76;
+    margin: 70px auto;
+    opacity: .9;
+    color: white;
+    padding: 20px;
+}
+form .login
+{
+    margin: auto 67px;
+}
+div p a
+{
+    text-decoration: none;
+
+}
+input
+{
+    height: 45px;
+    width:320px;
+
+}
+section .reg_img{
+    background-image: url("images/reg.jpg");
+ background-size:100%;
+margin-top: 0px;
+height: 620px;
+    
+}
+
+.box2{
+    height: 550px;
+    width: 450px;
+    background-color: #783F28  ;
+    margin: 0px auto;
+    opacity: .9;
+    color: white;
+}
+    section .reg{
+   
+    margin-left: 45px;
+    margin-top: 10px;
+    padding:15px;
+}
